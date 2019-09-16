@@ -7,7 +7,7 @@ const CenterSkew=styled.div`
 text-align: center;
 padding-top: 4vh;
 padding-bottom: 4vh;
-ptransform: skewY(-4deg);
+transform: skewY(-4deg);
 `
 
 const UnSkew=styled.div`
